@@ -47,9 +47,7 @@ dependencies:
 
 
 ## 📁 Project Structure
-less
-Copy
-Edit
+
 lib/
 │── main.dart
 │── firebase_options.dart
@@ -82,7 +80,7 @@ lib/
 
 ```
 
-##🔐 Authentication Flow
+## 🔐 Authentication Flow
 
 1.Login/Register → Firebase Auth
 
@@ -120,6 +118,12 @@ lib/
 
 ![Image](https://github.com/user-attachments/assets/0c6ffb5c-77b4-4033-a691-16fb374f6d93)
 
+![Image](https://github.com/user-attachments/assets/3e4384ea-21cd-4454-b41d-ee72c287a2ea)
+
+![Image](https://github.com/user-attachments/assets/d82c1f44-da76-45e0-926f-61fa12ce0668)
+
+![Image](https://github.com/user-attachments/assets/6f6403da-2138-4d33-8012-648642a4eb3d)
+
 ![Image](https://github.com/user-attachments/assets/919c80d7-1523-44b9-a59e-4fc6c70a9380)
 
 ![Image](https://github.com/user-attachments/assets/c7d45d74-5208-4ad6-94da-22fcf7f507fb)
@@ -131,12 +135,6 @@ lib/
 ![Image](https://github.com/user-attachments/assets/4289b810-269e-452a-9c36-eb6af0a567d7)
 
 ![Image](https://github.com/user-attachments/assets/4b1ae354-b218-4114-ac47-b69036e64942)
-
-![Image](https://github.com/user-attachments/assets/3e4384ea-21cd-4454-b41d-ee72c287a2ea)
-
-![Image](https://github.com/user-attachments/assets/d82c1f44-da76-45e0-926f-61fa12ce0668)
-
-![Image](https://github.com/user-attachments/assets/6f6403da-2138-4d33-8012-648642a4eb3d)
 
 ![Image](https://github.com/user-attachments/assets/c9709f40-a1bd-48ae-b182-8f613d1b766b)
 
