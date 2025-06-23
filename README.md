@@ -45,9 +45,9 @@ dependencies:
   like_button: ^2.1.0
   permission_handler: ^11.4.0
 
-
+```
 ## 📁 Project Structure
-
+```
 lib/
 │── main.dart
 │── firebase_options.dart
